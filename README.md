@@ -10,6 +10,6 @@ The work flow is as following:-\
 # STEPS TO COMPILE :-
 1.Run the code and select the option from the menu.\
 2.Input values of id,value and owner name field.\
-3.Get the desired output.\
+3.Get the desired output.
 
 Note:- Due to shortage of time this code is incomplete.
